@@ -1,7 +1,7 @@
 import { ChainTypes } from './chain';
 
 export enum TokenType {
-    JUNO = 'ujuno',
+    JUNOX = 'ujuno',
     HOPE = 'hope',
     RAW = 'raw',
     NETA = 'neta',
